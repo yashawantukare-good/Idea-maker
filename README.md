@@ -1,2 +1,2 @@
-# Idea-maker
+# your helper
 Have any away
